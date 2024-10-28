@@ -1,1 +1,2 @@
-* practing git branching & merging
+- ~~practing git branching & merging~~
+- make conflict & resolve conflict test
